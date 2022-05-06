@@ -1,0 +1,1 @@
+Testowanie funkcjonowania GitHub z aplikacją desktopową.
